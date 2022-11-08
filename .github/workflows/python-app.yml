@@ -9,7 +9,7 @@ on:
   # pull_request:
   #   branches: [ "re" ]
   schedule:
-    - cron: '30 18 * * *'
+    - cron: '30 17 * * *'
   workflow_dispatch:
 permissions:
   contents: read
